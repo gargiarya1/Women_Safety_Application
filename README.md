@@ -35,7 +35,7 @@ A mobile application built using **Flutter**, aimed at improving women's safety 
 
 | Home Screen | SOS Feature | Live Location |
 |-------------|-------------|----------------|
-| ![Home](assets/screenshots/home_screen.png) | ![SOS](assets/screenshots/sos_feature.png) | ![Map](assets/screenshots/location_screen.png) |
+| ![Home](assets/screenshots/4.png) | ![SOS](assets/screenshots/9.png) | ![Map](assets/screenshots/6.png) |
 
 ---
 
