@@ -1,16 +1,40 @@
-`# safe
+# 👩‍🦺 Women Safety Application
 
-A new Flutter project.
+![Logo](assets/app_logo.png) 
 
-## Getting Started
+A mobile application built using **Flutter**, aimed at improving women's safety through features like emergency alerts, real-time location sharing, and instant contact with trusted individuals.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 📍 **Live Location Tracking**
+  - Share your real-time location with trusted contacts.
+- 🆘 **SOS Alert Button**
+  - Send an emergency message with GPS location in one tap.
+- 📞 **Quick Dial Functionality**
+  - Access emergency numbers or close contacts quickly.
+- 🛡️ **Safe UI Design**
+  - Easy to use under stress or in emergency situations.
+- 🔒 **Privacy-Focused**
+  - Your data stays private unless shared with your consent.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠️ Tech Stack
+
+- **Flutter** – UI Framework
+- **Dart** – Backend Logic
+- **Google Maps API** – Real-time location services
+- **(Optional)** Firebase – For push notifications, user auth, or database
+- **Android SDK** – App testing and deployment
+
+---
+
+## 📱 Screenshots
+
+> Add screenshots to the `assets/screenshots/` directory and link them here.
+
+```md
+![Home Screen](assets/screenshots/home_screen.png)
+![SOS Feature](assets/screenshots/sos_feature.png)
