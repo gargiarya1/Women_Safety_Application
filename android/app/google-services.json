@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "402437793031",
+    "project_id": "bsafe-900db",
+    "storage_bucket": "bsafe-900db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402437793031:android:df9ba9a0a6f8c04c6c91a2",
+        "android_client_info": {
+          "package_name": "com.example.safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402437793031-b5mne6uronlsbia97rjd4rn5rjs61cml.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.safe",
+            "certificate_hash": "00c0a511fa7a628505f5696e04fe1387e8d76cca"
+          }
+        },
+        {
+          "client_id": "402437793031-5hpeavd0tljm0ni80r5ek088b380585u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx1Kn5x4xTDUnCP2CmAZvLimGN0ma6WZI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402437793031-5hpeavd0tljm0ni80r5ek088b380585u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

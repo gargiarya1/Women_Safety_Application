@@ -1,0 +1,22 @@
+List<String> quotes = [
+  "She believed she could.",
+  "You are enough.",
+  "Dream big, work hard.",
+  "Stay strong and positive.",
+  "Be fearless and bold.",
+  "You got this, always.",
+  "Keep going, no matter what.",
+  "Shine on, beautiful soul.",
+  "Believe in your dreams.",
+  "Embrace the journey ahead.",
+  "Stay positive and happy.",
+  "Rise above the storm.",
+  "Love yourself unconditionally.",
+  "Be bold, be you.",
+  "Live inspired every day.",
+  "Stay fierce and fabulous.",
+  "Be unstoppable, keep moving.",
+  "Create your own destiny.",
+  "Empower others with kindness.",
+  "Chase your dreams passionately."
+];

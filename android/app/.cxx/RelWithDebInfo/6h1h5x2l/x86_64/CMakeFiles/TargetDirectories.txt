@@ -1,0 +1,2 @@
+C:/Users/gargi arya/Desktop/sem 8/Flutter_bSafe/android/app/.cxx/RelWithDebInfo/6h1h5x2l/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/gargi arya/Desktop/sem 8/Flutter_bSafe/android/app/.cxx/RelWithDebInfo/6h1h5x2l/x86_64/CMakeFiles/rebuild_cache.dir
