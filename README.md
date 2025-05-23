@@ -1,4 +1,4 @@
-# 👩‍🦺 Women Safety Application
+# Women Safety Application
 
 ![Logo](assets/app_logo.png) 
 
@@ -26,15 +26,66 @@ A mobile application built using **Flutter**, aimed at improving women's safety 
 - **Flutter** – UI Framework
 - **Dart** – Backend Logic
 - **Google Maps API** – Real-time location services
-- **(Optional)** Firebase – For push notifications, user auth, or database
+- **Firebase** – For push notifications, user auth, or database
 - **Android SDK** – App testing and deployment
 
 ---
 
-## 📱 Screenshots
+## 📷 Screenshots
 
-> Add screenshots to the `assets/screenshots/` directory and link them here.
+| Home Screen | SOS Feature | Live Location |
+|-------------|-------------|----------------|
+| ![Home](assets/screenshots/home_screen.png) | ![SOS](assets/screenshots/sos_feature.png) | ![Map](assets/screenshots/location_screen.png) |
 
-```md
-![Home Screen](assets/screenshots/home_screen.png)
-![SOS Feature](assets/screenshots/sos_feature.png)
+---
+
+## 📦 Getting Started
+
+To run this project on your machine, follow the steps below.
+
+### 🔧 Prerequisites
+
+- Flutter SDK installed: [Flutter Installation Guide](https://docs.flutter.dev/get-started/install)
+- A code editor (like VS Code or Android Studio)
+- Git
+- An Android device or emulator for testing
+- Google Maps API key for location features
+
+---
+
+### 🚀 Installation Steps
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/gargiarya1/Women_Safety_Application.git
+
+# 2. Navigate into the project directory
+cd Women_Safety_Application
+
+# 3. Install project dependencies
+flutter pub get
+
+# 4. Set up Google Maps API key
+# Add your key to AndroidManifest.xml if using maps
+
+# 5. Run the app on a connected device or emulator
+flutter run
+```
+
+---
+
+### 🤝 Contributing
+
+```bash
+# Fork the repository
+
+# Create a new branch
+git checkout -b feature/your-feature-name
+
+# Make your changes
+
+# Commit and push
+git commit -m "Add your message"
+git push origin feature/your-feature-name
+
+# Open a Pull Request 🚀
