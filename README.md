@@ -37,6 +37,11 @@ A mobile application built using **Flutter**, aimed at improving women's safety 
 |-------------|-------------|----------------|
 | ![Home](assets/screenshots/4.png) | ![SOS](assets/screenshots/9.png) | ![Map](assets/screenshots/6.png) |
 
+
+| Emergency Screen | Contacts Screen| Register Screen | Profile Screen |
+|-------------|-------------|----------------|----------------|
+| ![Emergency](assets/screenshots/7.png) | ![Contacts](assets/screenshots/10.png) | ![Register](assets/screenshots/2.png) | ![Profile](assets/screenshots/5.png) |
+
 ---
 
 ## 📦 Getting Started
